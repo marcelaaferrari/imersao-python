@@ -1,2 +1,1 @@
-# imersao-python
-Análise de dados
+Curso de análise de dados que teve como caso de estudo a B3, a bolsa de valores brasileira. Foram exploradas técnicas de análise exploratória usando Google Sheets com o auxílio de fórmulas e ChatGPT, além da transição para a utilização do Google Colab e Python Pandas para manipulação e visualização avançada de dados. Tópicos como a criação de gráficos de velas, análise de séries temporais com machine learning (usando Prophet), e discussões aprofundadas sobre oportunidades de carreira no campo de dados também fizeram parte da imersão.
